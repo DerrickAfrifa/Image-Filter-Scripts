@@ -1,5 +1,5 @@
 # Image-Filter-Scripts
-Image processing scripts
+> Image processing scripts using a number of techniques including convolution matrices and traditional image processing algorithms.
 
 ### Original image
 ![alt tag](https://github.com/DerrickAfrifa/Image-Filter-Scripts/blob/master/mini.jpg)
