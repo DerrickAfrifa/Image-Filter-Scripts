@@ -1,5 +1,5 @@
 # Image-Filter-Scripts
-> Image processing scripts using a number of techniques including convolution matrices and traditional image processing algorithms.
+Image processing scripts using a number of techniques including convolution matrices and traditional image processing algorithms.
 
 ### Original image
 ![alt tag](https://github.com/DerrickAfrifa/Image-Filter-Scripts/blob/master/mini.jpg)
@@ -11,4 +11,6 @@
 ![alt tag](https://github.com/DerrickAfrifa/Image-Filter-Scripts/blob/master/pic3.png)
 
 ### Traditional edge detect algorithm
+Threshold luminance value of 15
+
 ![alt tag](https://github.com/DerrickAfrifa/Image-Filter-Scripts/blob/master/pic4.png)
